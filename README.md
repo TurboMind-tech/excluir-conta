@@ -10,7 +10,7 @@
   </style>
 </head>
 <body>
-  <h1>Mixture – aplicativo de estudo</h1>
+  <h1>TurboMind – aplicativo de estudo</h1>
 
   <p>Para solicitar a exclusão da sua conta e de todos os seus dados:</p>
 
