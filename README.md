@@ -19,7 +19,7 @@
     <li>Abra o app, vá em <strong>Conta</strong>, role a tela para baixo e clique no botão <strong>"Excluir Conta"</strong>. Será solicitado que você digite a senha e confirme a exclusão. Caso tenha esquecido a senha, você pode usar o botão <strong>"Esqueceu a senha?"</strong> para redefini-la. Ao alterar a senha, você será direcionado para a tela inicial, onde precisará entrar novamente com seu e-mail e a nova senha.</li>
   </ol>
 
-  <p><strong>Tipos de dados excluídos:</strong> e-mail e senha. Os dados salvos localmente só serão apagados se você utilizar o botão <strong>"Excluir Conta"</strong> dentro do app.</p>
+  <p><strong>Tipos de dados excluídos:</strong> e-mail e senha e o ID dos planos. Os dados salvos localmente só serão apagados se você utilizar o botão <strong>"Excluir Conta"</strong> dentro do app.</p>
 
   <p>Após receber sua solicitação, a exclusão será processada em até 7 dias úteis.</p>
 </body>
