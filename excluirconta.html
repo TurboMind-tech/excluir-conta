@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Excluir Conta - Mixture</title>
+  <style>
+    body { font-family: Arial, sans-serif; max-width: 600px; margin: 40px auto; line-height: 1.6; }
+    h1 { color: #2c3e50; }
+    strong { color: #34495e; }
+  </style>
+</head>
+<body>
+  <h1>Mixture – aplicativo de estudo</h1>
+
+  <p>Para solicitar a exclusão da sua conta e de todos os seus dados:</p>
+
+  <ol>
+    <li>Envie um e-mail para <strong>empresagroup517@gmail.com</strong> informando o endereço de e-mail usado no app, ou</li>
+    <li>Abra o app, vá em <strong>Conta</strong>, role a tela para baixo e clique no botão <strong>"Excluir Conta"</strong>. Será solicitado que você digite a senha e confirme a exclusão. Caso tenha esquecido a senha, você pode usar o botão <strong>"Esqueceu a senha?"</strong> para redefini-la. Ao alterar a senha, você será direcionado para a tela inicial, onde precisará entrar novamente com seu e-mail e a nova senha.</li>
+  </ol>
+
+  <p><strong>Tipos de dados excluídos:</strong> e-mail e senha. Os dados salvos localmente só serão apagados se você utilizar o botão <strong>"Excluir Conta"</strong> dentro do app.</p>
+
+  <p>Após receber sua solicitação, a exclusão será processada em até 7 dias úteis.</p>
+</body>
+</html>
